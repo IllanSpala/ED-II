@@ -1,0 +1,401 @@
+
+==========================================================
+     INICIANDO CONJUNTO DE TESTES PARA N = 9999     
+==========================================================
+ *****************************************************
+ ********  --- VETOR ALEATORIO   GERADO ---  ******** 
+ *********  --- VETOR CRESCENTE   GERADO ---  ******** 
+ *********  --- VETOR DECRESCENTE GERADO ---  ******** 
+ *****************************************************
+-----------------------------
+Testando algoritmo: Bubble Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 25240333
+Tempo gasto: 0.3240000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 0
+Tempo gasto: 0.1290000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 49985001
+Tempo gasto: 0.2510000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com Parada com vetor Aleatorio (9999 caracteres)
+Comparacoes: 49975685
+Trocas: 25240333
+Tempo gasto: 0.3210000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com Parada com vetor Crescente (9999 caracteres)
+Comparacoes: 9998
+Trocas: 0
+Tempo gasto: 0.0000000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com Parada com vetor Decrescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 49985001
+Tempo gasto: 0.2280000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 25250322
+Trocas: 25250324
+Tempo gasto: 0.0880000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 9998
+Trocas: 0
+Tempo gasto: 0.0000000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 49994999
+Tempo gasto: 0.1570000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort Binario com vetor Aleatorio (9999 caracteres)
+Comparacoes: 119016
+Trocas: 25250324
+Tempo gasto: 0.0790000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort Binario com vetor Crescente (9999 caracteres)
+Comparacoes: 123603
+Trocas: 0
+Tempo gasto: 0.0000000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort Binario com vetor Decrescente (9999 caracteres)
+Comparacoes: 113618
+Trocas: 49994999
+Tempo gasto: 0.1450000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Selection Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 9986
+Tempo gasto: 0.1150000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Selection Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 0
+Tempo gasto: 0.1250000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Selection Sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 4999
+Tempo gasto: 0.1370000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Merge Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 120311
+Trocas: 267202
+Tempo gasto: 0.0030000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Merge Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 69001
+Trocas: 267202
+Tempo gasto: 0.0030000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Merge Sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 64600
+Trocas: 267202
+Tempo gasto: 0.0030000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Pivo Central) com vetor Aleatorio (9999 caracteres)
+Comparacoes: 156219
+Trocas: 96960
+Tempo gasto: 0.0020000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Pivo Central) com vetor Crescente (9999 caracteres)
+Comparacoes: 113618
+Trocas: 66415
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Pivo Central) com vetor Decrescente (9999 caracteres)
+Comparacoes: 117361
+Trocas: 72477
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Pivo no Fim) com vetor Aleatorio (9999 caracteres)
+Comparacoes: 151875
+Trocas: 85195
+Tempo gasto: 0.0020000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Pivo no Fim) com vetor Crescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 49994999
+Tempo gasto: 0.3490000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Pivo no Fim) com vetor Decrescente (9999 caracteres)
+Comparacoes: 49985001
+Trocas: 24999999
+Tempo gasto: 0.2300000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Mediana de 3) com vetor Aleatorio (9999 caracteres)
+Comparacoes: 150698
+Trocas: 86500
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Mediana de 3) com vetor Crescente (9999 caracteres)
+Comparacoes: 125424
+Trocas: 66415
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Quick Sort (Mediana de 3) com vetor Decrescente (9999 caracteres)
+Comparacoes: 223459
+Trocas: 135853
+Tempo gasto: 0.0020000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bucket Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 3639
+Trocas: 19998
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bucket Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 0
+Trocas: 19998
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bucket Sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 0
+Trocas: 19998
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Shell Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 266314
+Trocas: 209150
+Tempo gasto: 0.0030000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Shell Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 119996
+Trocas: 0
+Tempo gasto: 0.0000000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Shell Sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 168163
+Trocas: 114993
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Radix Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 0
+Trocas: 79992
+Tempo gasto: 0.0000000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Radix Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 0
+Trocas: 79992
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Radix Sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 0
+Trocas: 79992
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Heap Sort com vetor Aleatorio (9999 caracteres)
+Comparacoes: 235322
+Trocas: 24996
+Tempo gasto: 0.0020000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Heap Sort com vetor Crescente (9999 caracteres)
+Comparacoes: 244435
+Trocas: 24996
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Heap Sort com vetor Decrescente (9999 caracteres)
+Comparacoes: 226707
+Trocas: 24996
+Tempo gasto: 0.0010000000 segundos
+-----------------------------
+
+
+==========================================================
+     FIM DO CONJUNTO DE TESTES PARA N = 9999     
+==========================================================
+
+==========================================================
+     INICIANDO CONJUNTO DE TESTES PARA N = 99999     
+==========================================================
+ *****************************************************
+ ********  --- VETOR ALEATORIO   GERADO ---  ******** 
+ *********  --- VETOR CRESCENTE   GERADO ---  ******** 
+ *********  --- VETOR DECRESCENTE GERADO ---  ******** 
+ *****************************************************
+-----------------------------
+Testando algoritmo: Bubble Sort com vetor Aleatorio (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 2501342225
+Tempo gasto: 31.8170000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com vetor Crescente (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 0
+Tempo gasto: 12.1490000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com vetor Decrescente (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 4999850001
+Tempo gasto: 20.9540000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com Parada com vetor Aleatorio (99999 caracteres)
+Comparacoes: 4999724751
+Trocas: 2501342225
+Tempo gasto: 30.3980000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com Parada com vetor Crescente (99999 caracteres)
+Comparacoes: 99998
+Trocas: 0
+Tempo gasto: 0.0000000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Bubble Sort com Parada com vetor Decrescente (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 4999850001
+Tempo gasto: 21.5230000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort com vetor Aleatorio (99999 caracteres)
+Comparacoes: 2501442214
+Trocas: 2501442215
+Tempo gasto: 7.7860000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort com vetor Crescente (99999 caracteres)
+Comparacoes: 99998
+Trocas: 0
+Tempo gasto: 0.0000000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion sort com vetor Decrescente (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 4999949999
+Tempo gasto: 15.2320000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort Binario com vetor Aleatorio (99999 caracteres)
+Comparacoes: 1522620
+Trocas: 2501442215
+Tempo gasto: 7.2780000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort Binario com vetor Crescente (99999 caracteres)
+Comparacoes: 1568912
+Trocas: 0
+Tempo gasto: 0.0060000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Insertion Sort Binario com vetor Decrescente (99999 caracteres)
+Comparacoes: 1468930
+Trocas: 4999949999
+Tempo gasto: 15.2260000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Selection Sort com vetor Aleatorio (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 99982
+Tempo gasto: 11.0660000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Selection Sort com vetor Crescente (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 0
+Tempo gasto: 11.0370000000 segundos
+-----------------------------
+
+-----------------------------
+Testando algoritmo: Selection Sort com vetor Decrescente (99999 caracteres)
+Comparacoes: 4999850001
+Trocas: 49999
+Tempo gasto: 11.3110000000 segundos
+-----------------------------
+
+---------------------
